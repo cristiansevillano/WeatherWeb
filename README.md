@@ -1,6 +1,7 @@
 # WeatherWeb
 Web simple para ver el tiempo basada en la API de OpenWeatherMap.
-Caracteristicas
+
+Caracteristicas:
 
     API
     Proxy
