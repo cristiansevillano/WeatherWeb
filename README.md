@@ -1,5 +1,5 @@
 # WeatherWeb
-![Test Image 1](weather app.PNG)
+![Index](Weather_App.png)
 
 Web simple para ver el tiempo basada en la API de OpenWeatherMap.
 
