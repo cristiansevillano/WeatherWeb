@@ -1,4 +1,6 @@
 # WeatherWeb
+![Test Image 1](3DTest.png)
+
 Web simple para ver el tiempo basada en la API de OpenWeatherMap.
 
 Caracteristicas:
